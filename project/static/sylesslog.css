@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url('https://cdnjs.cloudflare.com/ajax/libs/blurify/1.2.1/background.jpg');
+    background-image: url('/static/background.jpeg');
     background-size: cover;
     background-position: center;
     height: 100vh;
